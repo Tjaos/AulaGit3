@@ -1,0 +1,3 @@
+Algum texto na branch cadastro_produto
+o texto dessa linha está diferente
+para ter um conflito no merge
