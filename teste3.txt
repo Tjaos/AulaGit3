@@ -1,3 +1,5 @@
 Algum texto na branch cadastro_produto
+mais alguma coisa aqui
+
 o texto dessa linha está diferente
 para ter um conflito no merge
