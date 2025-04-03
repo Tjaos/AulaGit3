@@ -1,7 +1,0 @@
-Algum texto na branch cadastro_produto
-<<<<<<< HEAD
-o texto dessa linha está diferente
-para ter um conflito no merge
-=======
-mais alguma coisa aqui
->>>>>>> e94fe7452b17c0c4ce5faf4fc367d51e10f83d8e
